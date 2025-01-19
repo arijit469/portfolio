@@ -81,6 +81,7 @@ const About = () => {
             }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
+            {/* Hello */}
             I love tackling complex problems and turning ideas into reality through code. When I'm not coding, you can find me
             exploring new technologies, contributing to open-source projects, or enjoying a good book on tech innovations.
           </motion.p>
